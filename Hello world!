@@ -2,7 +2,8 @@
 
 int main()
 {
-    printf("Hello World");
-
+    int a = 3, b=8;
+    c=a+b;
+    printf("c=",%i\n);
     return 0;
 }
